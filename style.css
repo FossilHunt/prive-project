@@ -1,0 +1,48 @@
+h1 {
+    color: blue;
+}
+
+ul{
+    color: red;
+}
+
+.appel {
+    font-style: italic;
+    width: 200px;
+    color: darkgoldenrod;
+}
+
+ div {
+    background-color: rgb(177, 177, 177);
+    width: 300px;
+    font-style: oblique;
+ }
+
+ body {
+    background-color: navajowhite
+ }
+
+ nav{
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 5px;
+    box-sizing:content-box;
+    background-color: #f4f2f2;
+    color: #ea2626;
+    padding: 1px;
+    text-align: center;
+}
+
+footer{
+    background-color: #c1c99d;
+    box-sizing: border-box;
+    margin: 50px;
+    padding: 200px;
+    text-align: center;
+}
+
+input[type="password"]:focus{
+    background-color: #ea2626;
+    border-color: aqua;
+    border-style: solid;
+}
