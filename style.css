@@ -13,7 +13,7 @@ ul{
 }
 
  div {
-    background-color: rgb(177, 177, 177);
+    background-color: rgb(126, 219, 129);
     width: 300px;
     font-style: oblique;
  }
@@ -35,9 +35,7 @@ ul{
 
 footer{
     background-color: #c1c99d;
-    box-sizing: border-box;
-    margin: 50px;
-    padding: 200px;
+    padding: 100px;
     text-align: center;
 }
 
@@ -45,4 +43,7 @@ input[type="password"]:focus{
     background-color: #ea2626;
     border-color: aqua;
     border-style: solid;
+}
+header{
+    color: #3734e0;
 }
