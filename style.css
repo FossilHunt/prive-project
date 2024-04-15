@@ -32,16 +32,17 @@ ul{
     text-align: center;
 }
 
-footer{
-    background-color: #84a3db;
-    box-sizing: border-box;
-    margin: 50px;
-    padding: 50px;
-    text-align: center;
-}
-
 input[type="password"]:focus{
     background-color: #ea2626;
     border-color: aqua;
     border-style: solid;
+}
+footer {
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
